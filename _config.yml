@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              3rd Strike Chile
+bio:                'Bienvenido a la comunidad Chilena de jugadores de<br>Street Fighter III: 3rd Strike'
+description:        "Comunidad Chilena de jugadores de Street Fighter III: 3rd Strike"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -26,34 +26,35 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics: UA-144171183-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            3rdstrikecl
+facebook:           groups/3rdstrikecl
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          IGusername
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam-id:           userid
+steam-group:        3rdstrikecl
 #dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
+#youtube:           YTuser
+youtube-channel:   UCJ1xtgAxWu1_QmU4y44VeBQ
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
