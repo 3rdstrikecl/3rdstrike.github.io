@@ -9,7 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://3rdstrike.cl
-404-img:            'assets/img/404.png'
+img404:            'assets/img/404.png'
 
 # Jekyll
 permalink:          /:title/
@@ -65,7 +65,7 @@ youtube-channel:   UCJ1xtgAxWu1_QmU4y44VeBQ
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
