@@ -181,6 +181,14 @@ button:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
 
+  /* Ranking */
+.button.button-ranking {
+  color: #FFFFFF;
+  background-color: #32383E }
+.button.button-ranking:hover,
+.button.button-ranking:focus {
+  filter: brightness(90%) }
+
 /* Rocketseat */
 .button.button-rocketseat {
   color: #FFFFFF;
